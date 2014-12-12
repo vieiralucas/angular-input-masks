@@ -1,6 +1,7 @@
 {
   "name": "angular-input-masks",
   "version": "1.2.5",
+  "main": "./releases/masks.js",
   "description": "Personalized and localized input masks for AngularJS",
   "author": "igor.rafael@gmail.com",
   "license": "MIT",
